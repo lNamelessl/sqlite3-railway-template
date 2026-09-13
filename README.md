@@ -1,6 +1,6 @@
 # SQLite3 on Railway — SQLite with a web manager
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/new?github_url=https://github.com/lNamelessl/sqlite3-railway-template)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/sqlite3-railway-template)
 
 This template deploys [SQLite](https://sqlite.org) on a persistent Railway volume with
 [sqlite-web](https://github.com/coleifer/sqlite-web) as a browser-based manager UI: browse
