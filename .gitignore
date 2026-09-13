@@ -4,3 +4,5 @@ data/
 *.sqlite3
 __pycache__/
 .mimosa/
+tpl_audit*.json
+.zcode/
